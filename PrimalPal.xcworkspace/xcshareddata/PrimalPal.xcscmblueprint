@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "78D9EE01711D05DA24EBFCC85CF65D18C992EEDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3EA3BC04-6901-4926-9F47-75D0BBA5C087" : 0,
+    "78D9EE01711D05DA24EBFCC85CF65D18C992EEDE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D4D26BC-F2C3-4910-9BFD-C77B0CACD9FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3EA3BC04-6901-4926-9F47-75D0BBA5C087" : "PrimalPal_repo",
+    "78D9EE01711D05DA24EBFCC85CF65D18C992EEDE" : "PrimalPal_1.0(Final)"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PrimalPal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PrimalPal.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/primalpal-ios\/primalpal-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EA3BC04-6901-4926-9F47-75D0BBA5C087"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/primalpal-ios\/primalpal-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78D9EE01711D05DA24EBFCC85CF65D18C992EEDE"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D4D26BC-F2C3-4910-9BFD-C77B0CACD9FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrimalPal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3EA3BC04-6901-4926-9F47-75D0BBA5C087</key>
+		<string>https://bitbucket.org/primalpal-ios/primalpal-ios.git</string>
+		<key>78D9EE01711D05DA24EBFCC85CF65D18C992EEDE</key>
+		<string>https://bitbucket.org/primalpal-ios/primalpal-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrimalPal.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3EA3BC04-6901-4926-9F47-75D0BBA5C087</key>
+		<string>../../PrimalPal_repo</string>
+		<key>78D9EE01711D05DA24EBFCC85CF65D18C992EEDE</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/primalpal-ios/primalpal-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78D9EE01711D05DA24EBFCC85CF65D18C992EEDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78D9EE01711D05DA24EBFCC85CF65D18C992EEDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrimalPal_1.0(Final)</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3EA3BC04-6901-4926-9F47-75D0BBA5C087</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrimalPal_repo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
